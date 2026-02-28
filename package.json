@@ -1,0 +1,42 @@
+{
+  "name": "oauth-nodejs-express",
+  "version": "1.0.0",
+  "description": "OAuth 2.0 Authorization Code Flow with Node.js and Express — production-ready example",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "jest --testEnvironment=node"
+  },
+  "keywords": [
+    "oauth2",
+    "nodejs",
+    "express",
+    "authorization-code-flow",
+    "keycloak",
+    "iam",
+    "identity",
+    "authentication",
+    "openid-connect"
+  ],
+  "author": "IAMDevBox.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "connect-redis": "^7.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.0",
+    "express-session": "^1.17.3",
+    "ioredis": "^5.3.2",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.1",
+    "supertest": "^6.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

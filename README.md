@@ -2,7 +2,7 @@
 
 Production-ready implementation of **OAuth 2.0 Authorization Code Flow** using Node.js and Express.
 
-This companion repo for the tutorial at **[IAMDevBox.com](https://www.iamdevbox.com/posts/oauth-20-authorization-flow-using-nodejs-and-express/)** gives you a complete, runnable example with:
+This companion repo for the tutorial at **[IAMDevBox.com](https://www.iamdevbox.com/posts/oauth-20-authorization-flow-using-nodejs-and-express/?utm_source=github&utm_medium=companion-repo&utm_campaign=oauth-nodejs-express)** gives you a complete, runnable example with:
 
 - State parameter CSRF protection
 - Redis-backed session storage
@@ -13,7 +13,7 @@ This companion repo for the tutorial at **[IAMDevBox.com](https://www.iamdevbox.
 
 ## 📚 Full Tutorial
 
-**[→ OAuth 2.0 Authorization Flow Using Node.js and Express](https://www.iamdevbox.com/posts/oauth-20-authorization-flow-using-nodejs-and-express/)**
+**[→ OAuth 2.0 Authorization Flow Using Node.js and Express](https://www.iamdevbox.com/posts/oauth-20-authorization-flow-using-nodejs-and-express/?utm_source=github&utm_medium=companion-repo&utm_campaign=oauth-nodejs-express)**
 
 Covers:
 - Why Authorization Code Flow for server-side Node.js
@@ -23,10 +23,10 @@ Covers:
 
 ## Related IAMDevBox Guides
 
-- [OAuth 2.0 Complete Developer Guide](https://www.iamdevbox.com/posts/oauth-20-complete-developer-guide-authorization-authentication/)
-- [Authorization Code Flow with PKCE Tutorial](https://www.iamdevbox.com/posts/understanding-the-authorization-code-flow-with-pkce-in-oauth-20-step-by-step-tutorial-with-code-examples-and-common-pitfalls/)
-- [PKCE Generator Tool](https://www.iamdevbox.com/tools/pkce-generator/) — Generate PKCE code verifier/challenge online
-- [OAuth invalid_grant Error: Causes and Fixes](https://www.iamdevbox.com/posts/oauth-invalid-grant-error-causes-and-fixes-with-keycloak-auth0-and-standard-servers/)
+- [OAuth 2.0 Complete Developer Guide](https://www.iamdevbox.com/posts/oauth-20-complete-developer-guide-authorization-authentication/?utm_source=github&utm_medium=companion-repo&utm_campaign=oauth-nodejs-express)
+- [Authorization Code Flow with PKCE Tutorial](https://www.iamdevbox.com/posts/understanding-the-authorization-code-flow-with-pkce-in-oauth-20-step-by-step-tutorial-with-code-examples-and-common-pitfalls/?utm_source=github&utm_medium=companion-repo&utm_campaign=oauth-nodejs-express)
+- [PKCE Generator Tool](https://www.iamdevbox.com/tools/pkce-generator/?utm_source=github&utm_medium=companion-repo&utm_campaign=oauth-nodejs-express) — Generate PKCE code verifier/challenge online
+- [OAuth invalid_grant Error: Causes and Fixes](https://www.iamdevbox.com/posts/oauth-invalid-grant-error-causes-and-fixes-with-keycloak-auth0-and-standard-servers/?utm_source=github&utm_medium=companion-repo&utm_campaign=oauth-nodejs-express)
 
 ## Quick Start
 
@@ -155,4 +155,4 @@ oauth-nodejs-express/
 
 ---
 
-Built with ❤️ by [IAMDevBox.com](https://www.iamdevbox.com) — practical IAM engineering guides.
+Built with ❤️ by [IAMDevBox.com](https://www.iamdevbox.com/?utm_source=github&utm_medium=companion-repo&utm_campaign=oauth-nodejs-express) — practical IAM engineering guides.
